@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@trpc/server': ^10.7.0
+  zod: ^3.20.2
+
+dependencies:
+  '@trpc/server': 10.7.0
+  zod: 3.20.2
+
+packages:
+
+  /@trpc/server/10.7.0:
+    resolution: {integrity: sha512-kFhlqhzZt5PwVRRDci8oJKMMFGjjq9189stT6bvS9xuuLjRzzwhMShRi99sm/jqhdjWmlXyO3Ncx0rnghUvH+w==}
+    dev: false
+
+  /zod/3.20.2:
+    resolution: {integrity: sha512-1MzNQdAvO+54H+EaK5YpyEy0T+Ejo/7YLHS93G3RnYWh5gaotGHwGeN/ZO687qEDU2y4CdStQYXVHIgrUl5UVQ==}
+    dev: false

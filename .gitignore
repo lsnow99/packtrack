@@ -1,0 +1,15 @@
+node_modules
+.rollup.cache
+dist
+
+backend/dist
+
+frontend/dist
+
+shared/dist
+
+sdk/dist
+
+frontend/stats.html
+
+default.db

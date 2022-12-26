@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "removeComments": true,
+    "declaration": true,
+    "outDir": "./dist",
+    "declarationDir": "dist",
+    "strict": true,
+    "sourceMap": true,
+    "declarationMap": true,
+    "preserveValueImports": true,
+    "importsNotUsedAsValues": "error"
+  }
+}
